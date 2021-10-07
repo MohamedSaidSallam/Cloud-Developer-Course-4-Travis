@@ -1,4 +1,6 @@
 # Overview
+[![Build Status](https://app.travis-ci.com/TheDigitalPhoenixX/Cloud-Developer-Course-4-Travis.svg?branch=master)](https://app.travis-ci.com/TheDigitalPhoenixX/Cloud-Developer-Course-4-Travis)
+
 This is a very simple, bare-bones NodeJS project created for you to use with Docker.
 
 # Local Setup
